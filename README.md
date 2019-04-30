@@ -1,7 +1,7 @@
 
 
 # this repository is not maintained
-# See tagaProducts reposiory
+# See tagaProducts repository
 
 This repository is not maintained.
 
